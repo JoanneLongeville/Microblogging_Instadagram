@@ -1,4 +1,4 @@
-# Microbbloging - Lisamojo
+# Microbbloging - Instadagram
 
 Creation of a platform where we can authenticate, follow people, post and like pictures.
 
@@ -17,19 +17,24 @@ Creation of a platform where we can authenticate, follow people, post and like p
 ## Screenshots
 
 Welcome page
-![Welcome page](/pictures_README/insta_accueil.png)
+
+![insta_accueil](https://user-images.githubusercontent.com/103690254/236465430-86e4f1db-84ee-4e3c-9318-e770667456e6.png)
 
 Post creation
-![Post creation](/pictures_README/insta_creer.png)
+
+![insta_creer](https://user-images.githubusercontent.com/103690254/236465852-cd487124-7cbd-4864-a119-f62b3a8d59fb.png)
 
 Post modification
-![Post modification](/pictures_README/insta_modifier_post.png)
+
+![insta_modifier_post](https://user-images.githubusercontent.com/103690254/236465950-2a6c4d42-054e-4842-a15e-64e74e294d52.png)
 
 Notifications
-![Notifications](/pictures_README/insta_notifs.png)
+
+![insta_notifs](https://user-images.githubusercontent.com/103690254/236465980-cc630163-a26d-4bd3-848f-aee4866392a7.png)
 
 Profile page
-![Profile page](/pictures_README/insta_profil.png)
+
+![insta_profil](https://user-images.githubusercontent.com/103690254/236465990-d6ddf082-504f-4e1b-8af6-123d29b5c351.png)
 
 ## Documentation
 
